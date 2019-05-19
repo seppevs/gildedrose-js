@@ -63,4 +63,4 @@ class Shop {
 module.exports = {
   Item,
   Shop
-}
+};
