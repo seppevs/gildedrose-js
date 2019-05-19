@@ -20,7 +20,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 14, 21
 Backstage passes to a TAFKAL80ETC concert, 9, 50
 Backstage passes to a TAFKAL80ETC concert, 4, 50
-Conjured Mana Cake, 2, 11
+Conjured Mana Cake, 2, 12
 
 -------- day 2 --------
 name, sellIn, quality
@@ -32,7 +32,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 13, 22
 Backstage passes to a TAFKAL80ETC concert, 8, 50
 Backstage passes to a TAFKAL80ETC concert, 3, 50
-Conjured Mana Cake, 1, 9
+Conjured Mana Cake, 1, 11
 
 -------- day 3 --------
 name, sellIn, quality
@@ -44,7 +44,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 12, 23
 Backstage passes to a TAFKAL80ETC concert, 7, 50
 Backstage passes to a TAFKAL80ETC concert, 2, 50
-Conjured Mana Cake, 0, 7
+Conjured Mana Cake, 0, 10
 
 -------- day 4 --------
 name, sellIn, quality
@@ -56,7 +56,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 11, 24
 Backstage passes to a TAFKAL80ETC concert, 6, 50
 Backstage passes to a TAFKAL80ETC concert, 1, 50
-Conjured Mana Cake, -1, 3
+Conjured Mana Cake, -1, 8
 
 -------- day 5 --------
 name, sellIn, quality
@@ -68,7 +68,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 10, 25
 Backstage passes to a TAFKAL80ETC concert, 5, 50
 Backstage passes to a TAFKAL80ETC concert, 0, 50
-Conjured Mana Cake, -2, 0
+Conjured Mana Cake, -2, 6
 
 -------- day 6 --------
 name, sellIn, quality
@@ -80,7 +80,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 9, 27
 Backstage passes to a TAFKAL80ETC concert, 4, 50
 Backstage passes to a TAFKAL80ETC concert, -1, 0
-Conjured Mana Cake, -3, 0
+Conjured Mana Cake, -3, 4
 
 -------- day 7 --------
 name, sellIn, quality
@@ -92,7 +92,7 @@ Sulfuras, Hand of Ragnaros, -1, 80
 Backstage passes to a TAFKAL80ETC concert, 8, 29
 Backstage passes to a TAFKAL80ETC concert, 3, 50
 Backstage passes to a TAFKAL80ETC concert, -2, 0
-Conjured Mana Cake, -4, 0
+Conjured Mana Cake, -4, 2
 
 -------- day 8 --------
 name, sellIn, quality
